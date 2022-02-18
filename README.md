@@ -20,7 +20,7 @@
 ### 42 Projects
 
 <div align="center">
-./icons/phase_one.png
+[![](./icons/phase_one.png)](https://github.com/deborabastos/)
 </div>
 
 
