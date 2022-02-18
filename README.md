@@ -19,6 +19,11 @@
 
 ### 42 Projects
 
+<div align="center">
+./icons/phase_one.png
+</div>
+
+
 [![](./icons/libft.png)](https://github.com/deborabastos/42_libft)
 [![](./icons/get_next_line.png)](https://github.com/deborabastos/42_get_next_line)
 [![](./icons/ft_printf.png)](https://github.com/deborabastos/42_printf)
