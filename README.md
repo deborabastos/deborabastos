@@ -7,18 +7,16 @@
 - 👩🏽‍💼 Currently working at Federal Public Ministry
 
 ---
-
-[![deborabastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabastos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabastos&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/deborabastos" target="_blank">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deborabastos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborabastos&layout=compact&langs_count=7&theme=radical"/>
+</a>
 ---
 ### 42 Projects
 
 
 
-
-
+---
 ### Technologies
 - Git
 - VSCode
@@ -28,6 +26,7 @@
 - HTML
 - CSS3
 - PHP
+- Shell
 
 
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=deborabastos&label=Profile%20views&color=0e75b6&style=flat" alt="deborabastos" /> </p>
