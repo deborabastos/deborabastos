@@ -15,9 +15,12 @@
 </div>
 
 ---
+<div align="center">
+
 ### 42 Projects
 
 
+</div>
 
 ---
 ### Technologies
