@@ -17,7 +17,8 @@
 ---
 <div align="center">
 
-### 💻  42 Projects  💻 
+
+## 💻  42 Projects  💻 
 
 <div align="center">
 
