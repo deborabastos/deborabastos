@@ -25,13 +25,11 @@
 [![](./icons/phase_one.png)](https://github.com/deborabastos/)
 
 </br>
-
 [![](./icons/libft.png)](https://github.com/deborabastos/42_libft)
 [![](./icons/get_next_line.png)](https://github.com/deborabastos/42_get_next_line)
 [![](./icons/ft_printf.png)](https://github.com/deborabastos/42_printf)
 
 </br>
-
 [![](./icons/born2beroot.png)](https://github.com/deborabastos/)
 [![](./icons/so_long.png)](https://github.com/deborabastos/42_so_long)
 [![](./icons/pipex.png)](https://github.com/deborabastos/42_pipex)
