@@ -6,6 +6,8 @@
 - 👩🏽‍🎓 Graduated in Economics at University of Brasília
 - 👩🏽‍💼 Currently working at Federal Public Ministry
 
+---
+
 [![deborabastos's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborabastos&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deborabastos&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
