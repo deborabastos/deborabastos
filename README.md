@@ -31,7 +31,6 @@
 [![](./icons/born2beroot.png)](https://github.com/deborabastos/)
 [![](./icons/so_long.png)](https://github.com/deborabastos/42_so_long)
 [![](./icons/pipex.png)](https://github.com/deborabastos/42_pipex)
-
 </div>
 
 ---
