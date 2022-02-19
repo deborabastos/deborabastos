@@ -37,7 +37,7 @@
 </div>
 
 ---
-### Technologies
+<!-- ### Technologies
 - Git
 - VSCode
 - Python
@@ -46,7 +46,7 @@
 - HTML
 - CSS3
 - PHP
-- Shell
+- Shell -->
 
 
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=deborabastos&label=Profile%20views&color=0e75b6&style=flat" alt="deborabastos" /> </p>
