@@ -34,10 +34,19 @@
 [![](./icons/so_long.png)](https://github.com/deborabastos/42_so_long)
 [![](./icons/pipex.png)](https://github.com/deborabastos/42_pipex)
 
-</div>
 
 ---
-<!-- ### Technologies
+### Technologies
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+
 - Git
 - VSCode
 - Python
@@ -46,7 +55,8 @@
 - HTML
 - CSS3
 - PHP
-- Shell -->
+- Shell
 
+</div>
 
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=deborabastos&label=Profile%20views&color=0e75b6&style=flat" alt="deborabastos" /> </p>
