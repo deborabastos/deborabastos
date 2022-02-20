@@ -7,7 +7,7 @@
 - 👩🏽‍🎓 Postgraduate dregree in Regulatory Impact Analysis at University of Brasília
 - 📚 Passionate about learning
 - 👩🏽‍💼 Currently working at Federal Public Ministry
-- 📫 How to reach me? Find me at [LinkedIn](https://www.linkedin.com/in/deborabastos14/)
+- 📫 How to reach me? Add me at [LinkedIn](https://www.linkedin.com/in/deborabastos14/)
 
 ---
 <div align="center"> 
