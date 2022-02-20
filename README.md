@@ -61,8 +61,6 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="html5" width="40" height="40"/>
-
 </div>
 
 ---
