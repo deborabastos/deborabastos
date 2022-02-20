@@ -5,7 +5,7 @@
 - 👩🏽‍💻 Analysis and Systems Development student at Universidade Católica de Brasília
 - 👩🏽‍🎓 Graduated in Economics at University of Brasília
 - 👩🏽‍🎓 Postgraduate dregree in Regulatory Impact Analysis at University of Brasília
-- 📚 Curious. I'm always learning something new
+- 📚 Passionate about learning
 - 👩🏽‍💼 Currently working at Federal Public Ministry
 
 ---
